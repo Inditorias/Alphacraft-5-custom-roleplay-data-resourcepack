@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gold_nugget"
+  },
+  "overrides": [
+
+    { "predicate": { "custom_model_data": 1 }, "model": "item/labels/Label01" },
+    { "predicate": { "custom_model_data": 2 }, "model": "item/labels/Label02" },
+    { "predicate": { "custom_model_data": 3 }, "model": "item/labels/Label03" },
+    { "predicate": { "custom_model_data": 4 }, "model": "item/labels/Label04" },
+    { "predicate": { "custom_model_data": 5 }, "model": "item/labels/Label05" },
+    { "predicate": { "custom_model_data": 6 }, "model": "item/labels/Label06" },
+    { "predicate": { "custom_model_data": 7 }, "model": "item/labels/Label07" },
+    { "predicate": { "custom_model_data": 8 }, "model": "item/labels/Label08" },
+    { "predicate": { "custom_model_data": 9 }, "model": "item/labels/Label09" },
+    { "predicate": { "custom_model_data": 10 }, "model": "item/labels/Label10" },
+    { "predicate": { "custom_model_data": 11 }, "model": "item/labels/Label11" },
+    { "predicate": { "custom_model_data": 12 }, "model": "item/labels/Label12" },
+    { "predicate": { "custom_model_data": 13 }, "model": "item/labels/Label13" },
+    { "predicate": { "custom_model_data": 14 }, "model": "item/labels/Label14" },
+    { "predicate": { "custom_model_data": 15 }, "model": "item/labels/Label15" },
+    { "predicate": { "custom_model_data": 16 }, "model": "item/labels/Label16" },
+    { "predicate": { "custom_model_data": 17 }, "model": "item/labels/Label17" },
+    { "predicate": { "custom_model_data": 18 }, "model": "item/labels/Label18" },
+    { "predicate": { "custom_model_data": 19 }, "model": "item/labels/Label19" },
+    { "predicate": { "custom_model_data": 20 }, "model": "item/labels/Label20" },
+    { "predicate": { "custom_model_data": 21 }, "model": "item/labels/Label21" },
+    { "predicate": { "custom_model_data": 22 }, "model": "item/labels/Label22" },
+    { "predicate": { "custom_model_data": 23 }, "model": "item/labels/Label23" },
+    { "predicate": { "custom_model_data": 24 }, "model": "item/labels/Label24" },
+    { "predicate": { "custom_model_data": 25 }, "model": "item/labels/Label25" }
+    
+  ]
+}
