@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gold_nugget"
+  },
+  "overrides": [
+
+    { "predicate": { "custom_model_data": 1 }, "model": "custom:item/abw_mail/Label01" },
+    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/abw_mail/Label02" },
+    { "predicate": { "custom_model_data": 3 }, "model": "custom:item/abw_mail/Label03" },
+    { "predicate": { "custom_model_data": 4 }, "model": "custom:item/abw_mail/Label04" },
+    { "predicate": { "custom_model_data": 5 }, "model": "custom:item/abw_mail/Label05" },
+    { "predicate": { "custom_model_data": 6 }, "model": "custom:item/abw_mail/Label06" },
+    { "predicate": { "custom_model_data": 7 }, "model": "custom:item/abw_mail/Label07" },
+    { "predicate": { "custom_model_data": 8 }, "model": "custom:item/abw_mail/Label08" },
+    { "predicate": { "custom_model_data": 9 }, "model": "custom:item/abw_mail/Label09" },
+    { "predicate": { "custom_model_data": 10 }, "model": "custom:item/abw_mail/Label10" },
+    { "predicate": { "custom_model_data": 11 }, "model": "custom:item/abw_mail/Label11" },
+    { "predicate": { "custom_model_data": 12 }, "model": "custom:item/abw_mail/Label12" },
+    { "predicate": { "custom_model_data": 13 }, "model": "custom:item/abw_mail/Label13" },
+    { "predicate": { "custom_model_data": 14 }, "model": "custom:item/abw_mail/Label14" },
+    { "predicate": { "custom_model_data": 15 }, "model": "custom:item/abw_mail/Label15" },
+    { "predicate": { "custom_model_data": 16 }, "model": "custom:item/abw_mail/Label16" },
+    { "predicate": { "custom_model_data": 17 }, "model": "custom:item/abw_mail/Label17" },
+    { "predicate": { "custom_model_data": 18 }, "model": "custom:item/abw_mail/Label18" },
+    { "predicate": { "custom_model_data": 19 }, "model": "custom:item/abw_mail/Label19" },
+    { "predicate": { "custom_model_data": 20 }, "model": "custom:item/abw_mail/Label20" },
+    { "predicate": { "custom_model_data": 21 }, "model": "custom:item/abw_mail/Label21" },
+    { "predicate": { "custom_model_data": 22 }, "model": "custom:item/abw_mail/Label22" },
+    { "predicate": { "custom_model_data": 23 }, "model": "custom:item/abw_mail/Label23" },
+    { "predicate": { "custom_model_data": 24 }, "model": "custom:item/abw_mail/Label24" },
+    { "predicate": { "custom_model_data": 25 }, "model": "custom:item/abw_mail/Label25" },
+    { "predicate": { "custom_model_data": 26 }, "model": "minecraft:item/gold_nugget" }
+    
+  ]
+}

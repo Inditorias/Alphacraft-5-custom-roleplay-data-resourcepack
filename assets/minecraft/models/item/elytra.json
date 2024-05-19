@@ -11,6 +11,7 @@
     { "predicate": {"custom_model_data": 5}, "model": "custom:item/elytra_allay"},
     { "predicate": {"custom_model_data": 6}, "model": "custom:item/elytra_phantom"},
     { "predicate": {"custom_model_data": 7}, "model": "custom:item/elytra_vex"},
-    { "predicate": {"custom_model_data": 8}, "model": "custom:item/elytra_dragon"}
+    { "predicate": {"custom_model_data": 8}, "model": "custom:item/elytra_dragon"},
+    { "predicate": {"custom_model_data": 9}, "model": "minecraft:item/elytra"}
   ]
 }
