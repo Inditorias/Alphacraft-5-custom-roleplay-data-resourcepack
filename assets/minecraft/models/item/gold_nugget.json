@@ -29,7 +29,8 @@
     { "predicate": { "custom_model_data": 22 }, "model": "custom:item/abw_mail/Label22" },
     { "predicate": { "custom_model_data": 23 }, "model": "custom:item/abw_mail/Label23" },
     { "predicate": { "custom_model_data": 24 }, "model": "custom:item/abw_mail/Label24" },
-    { "predicate": { "custom_model_data": 25 }, "model": "custom:item/abw_mail/Label25" }
+    { "predicate": { "custom_model_data": 25 }, "model": "custom:item/abw_mail/Label25" },
+    { "predicate": { "custom_model_data": 26 }, "model": "minecraft:item/gold_nugget" }
     
   ]
 }
