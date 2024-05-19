@@ -2,10 +2,10 @@
     "credit": "Made by Frilioth",
     "textures": 
     {
-        "0": "item/labels/Label04",
-        "1": "item/labels/back",
-        "2": "item/labels/blank",
-        "particle": "item/cards/Label04"
+        "0": "custom:item/abw_mail/Label19",
+        "1": "custom:item/abw_mail/back",
+        "2": "custom:item/abw_mail/blank",
+        "particle": "custom:item/abw_mail/Label19"
     },
     "elements":
     [
