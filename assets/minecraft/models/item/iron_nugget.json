@@ -32,7 +32,7 @@
   { "predicate": { "custom_model_data": 306 }, "model": "custom:item/cards/where/library" },
   { "predicate": { "custom_model_data": 307 }, "model": "custom:item/cards/where/lounge" },
   { "predicate": { "custom_model_data": 308 }, "model": "custom:item/cards/where/study" },
-  {"predicate": {"custom_model_data": 308},"model": "minecraft:item/iron_nugget"},
+  {"predicate": {"custom_model_data": 309},"model": "minecraft:item/iron_nugget"},
 
   { "predicate": { "custom_model_data": 500 }, "model": "custom:item/cards/h-a" },
   { "predicate": { "custom_model_data": 501 }, "model": "custom:item/cards/h-k" },
