@@ -1,0 +1,594 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_nugget"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/filter1"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/filter2"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_nugget"
+        },
+        "threshold": 3
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/who/green"
+        },
+        "threshold": 100
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/who/mustard"
+        },
+        "threshold": 101
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/who/orchid"
+        },
+        "threshold": 102
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/who/peacock"
+        },
+        "threshold": 103
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/who/plum"
+        },
+        "threshold": 104
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/who/scarlett"
+        },
+        "threshold": 105
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_nugget"
+        },
+        "threshold": 106
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/what/candlestick"
+        },
+        "threshold": 200
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/what/dagger"
+        },
+        "threshold": 201
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/what/pipe"
+        },
+        "threshold": 202
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/what/revolver"
+        },
+        "threshold": 203
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/what/rope"
+        },
+        "threshold": 204
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/what/wrench"
+        },
+        "threshold": 205
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_nugget"
+        },
+        "threshold": 206
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/where/ballroom"
+        },
+        "threshold": 300
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/where/billiard"
+        },
+        "threshold": 301
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/where/conservatory"
+        },
+        "threshold": 302
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/where/dining"
+        },
+        "threshold": 303
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/where/hall"
+        },
+        "threshold": 304
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/where/kitchen"
+        },
+        "threshold": 305
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/where/library"
+        },
+        "threshold": 306
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/where/lounge"
+        },
+        "threshold": 307
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/where/study"
+        },
+        "threshold": 308
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_nugget"
+        },
+        "threshold": 309
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-a"
+        },
+        "threshold": 500
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-k"
+        },
+        "threshold": 501
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-q"
+        },
+        "threshold": 502
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-j"
+        },
+        "threshold": 503
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-10"
+        },
+        "threshold": 504
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-09"
+        },
+        "threshold": 505
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-08"
+        },
+        "threshold": 506
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-07"
+        },
+        "threshold": 507
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-06"
+        },
+        "threshold": 508
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-05"
+        },
+        "threshold": 509
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-04"
+        },
+        "threshold": 510
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-03"
+        },
+        "threshold": 511
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/h-02"
+        },
+        "threshold": 512
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_nugget"
+        },
+        "threshold": 513
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-a"
+        },
+        "threshold": 600
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-k"
+        },
+        "threshold": 601
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-q"
+        },
+        "threshold": 602
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-j"
+        },
+        "threshold": 603
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-10"
+        },
+        "threshold": 604
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-09"
+        },
+        "threshold": 605
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-08"
+        },
+        "threshold": 606
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-07"
+        },
+        "threshold": 607
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-06"
+        },
+        "threshold": 608
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-05"
+        },
+        "threshold": 609
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-04"
+        },
+        "threshold": 610
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-03"
+        },
+        "threshold": 611
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/d-02"
+        },
+        "threshold": 612
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_nugget"
+        },
+        "threshold": 613
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-a"
+        },
+        "threshold": 700
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-k"
+        },
+        "threshold": 701
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-q"
+        },
+        "threshold": 702
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-j"
+        },
+        "threshold": 703
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-10"
+        },
+        "threshold": 704
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-09"
+        },
+        "threshold": 705
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-08"
+        },
+        "threshold": 706
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-07"
+        },
+        "threshold": 707
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-06"
+        },
+        "threshold": 708
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-05"
+        },
+        "threshold": 709
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-04"
+        },
+        "threshold": 710
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-03"
+        },
+        "threshold": 711
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/c-02"
+        },
+        "threshold": 712
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_nugget"
+        },
+        "threshold": 713
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-a"
+        },
+        "threshold": 800
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-k"
+        },
+        "threshold": 801
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-q"
+        },
+        "threshold": 802
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-j"
+        },
+        "threshold": 803
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-10"
+        },
+        "threshold": 804
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-09"
+        },
+        "threshold": 805
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-08"
+        },
+        "threshold": 806
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-07"
+        },
+        "threshold": 807
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-06"
+        },
+        "threshold": 808
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-05"
+        },
+        "threshold": 809
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-04"
+        },
+        "threshold": 810
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-03"
+        },
+        "threshold": 811
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/cards/s-02"
+        },
+        "threshold": 812
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_nugget"
+        },
+        "threshold": 813
+      }
+    ]
+  }
+}
