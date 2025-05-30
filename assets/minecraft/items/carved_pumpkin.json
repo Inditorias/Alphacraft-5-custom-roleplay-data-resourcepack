@@ -21,6 +21,13 @@
           "model": "custom:item/indy_santa_hat"
         },
         "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/pizza"
+        },
+        "threshold": 3
       }
     ]
   }
