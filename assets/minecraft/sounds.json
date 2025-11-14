@@ -1,0 +1,14 @@
+{
+  "item.goat_horn.sound.warden": {
+    "sounds": [ { "name": "mob/warden/death_1" } ]
+  },
+  "familyguy1": {
+  "sounds": [ { "name": "familyguy1" } ]
+},
+"familyguy2": {
+  "sounds": [ { "name": "familyguy2" } ]
+},
+"familyguy3": {
+  "sounds": [ { "name": "familyguy3" } ]
+}
+}

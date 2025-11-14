@@ -1,0 +1,6 @@
+{
+	"model":{
+		"type": "minecraft:model",
+		"model": "ac:item/guild_certificate/guild_certificate_rn"
+	}
+}	
