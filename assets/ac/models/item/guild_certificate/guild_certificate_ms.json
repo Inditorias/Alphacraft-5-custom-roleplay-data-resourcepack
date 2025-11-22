@@ -429,9 +429,21 @@
 			"rotation": [0, 164, 0],
 			"translation": [4.5, 2.5, 0]
 		},
+		"ground": {
+			"translation": [0, 2.75, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [0.25, 2, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
 		"fixed": {
 			"translation": [-0.5, 3, 0],
 			"scale": [2, 2, 2]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
 		}
 	},
 	"groups": [
